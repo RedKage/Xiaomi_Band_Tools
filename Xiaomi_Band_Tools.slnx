@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Compiler/Compiler.csproj" />
+  <Project Path="Unpacker/Unpacker.csproj" />
+  <Project Path="XiaomiWatch/XiaomiWatch.csproj" Id="0b774d0a-5689-4811-8f65-21177037bbae" />
+</Solution>
